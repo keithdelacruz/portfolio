@@ -1,0 +1,87 @@
+#skills {
+    display: flex;
+    padding-top: 4rem;
+    justify-content: center;
+    padding-bottom: 30rem;
+}
+
+.skills_container {
+    margin-right: 30rem;
+    padding-top: 4rem;
+}
+
+#skills_progress {
+    margin-top: 2rem;
+}
+
+.skill_language {
+    margin-top: 4rem;
+}
+
+.skill_list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.skill_list li {
+    margin-bottom: 10px;
+}
+
+.progress {
+    background-color: #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    height: 10px;
+    width: 100px; /* Width of the progress bar */
+}
+
+.progress_bar {
+    height: 100%;
+    background-color: #4CAF50;
+}
+
+.css {
+    width: 80%; /* Adjust width as needed */
+}
+
+.html {
+    width: 70%; /* Adjust width as needed */
+}
+
+.java {
+    width: 60%; /* Adjust width as needed */
+}
+
+.c {
+    width: 50%; /* Adjust width as needed */
+}
+
+.progress {
+    background-color: #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    height: 10px;
+    width: 100px; /* Width of the progress bar */
+}
+
+.progress_bar {
+    height: 100%;
+    background-color: #4CAF50;
+}
+
+.skill {
+    margin-bottom: 20px;
+}
+
+.hardware {
+    width: 94%; /* Adjust width as needed */
+}
+
+.coding {
+    width: 70%; /* Adjust width as needed */
+}
+
+.communication {
+    width: 90%; /* Adjust width as needed */
+}

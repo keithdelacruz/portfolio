@@ -1,0 +1,52 @@
+#about {
+    padding-top: 10rem;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20rem;
+}
+
+.about_container {
+    padding-top: 1rem;
+}
+
+.about_title {
+    margin-top: -5rem;
+}
+
+.about_img-wrapper {
+    margin-left: 5rem;
+}
+
+.about_img {
+    border-radius: 20%;
+    height: 24.5rem;
+    width: 27rem;
+}
+
+.about_button_wrapper {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.about_button {
+    margin-right: 30rem;
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 20px;
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 0 0 10px #4CAF50; /* Add green glow */
+    transition: box-shadow 0.3s ease-in-out; /* Add transition for the glow effect */
+}
+
+.about_button:hover {
+    box-shadow: none; /* Remove glow on hover */
+}
+
+.about_button:hover .fa-arrow-circle-right {
+    transform: translateX(5px);
+    transition: transform 0.3s ease-in-out;
+}
+

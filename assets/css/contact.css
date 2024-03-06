@@ -1,0 +1,22 @@
+#contact {
+    padding-bottom: 28rem;
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+}
+
+.contact_container {
+    margin-right: 55rem;
+}
+
+.social_icons {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center; /* Optional: centers the icons horizontally */
+}
+
+.social_icons li {
+    display: inline-block; /* Aligns the icons horizontally */
+    margin-right: 10px; /* Adjust spacing between icons as needed */
+}
