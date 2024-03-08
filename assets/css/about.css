@@ -2,7 +2,11 @@
     padding-top: 10rem;
     display: flex;
     justify-content: center;
-    padding-bottom: 20rem;
+    padding-bottom: 26rem;
+    background-image:url(https://media.istockphoto.com/id/1001279256/vector/technology-network-background.jpg?s=612x612&w=0&k=20&c=paF8I7sCkHbt2jHwRI1cpxUz2pX1F26SKl0XeugJEno=);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .about_container {
