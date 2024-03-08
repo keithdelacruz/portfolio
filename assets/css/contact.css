@@ -1,8 +1,14 @@
 #contact {
-    padding-bottom: 28rem;
+    padding-bottom: 40rem;
     display: flex;
     justify-content: center;
     padding-top: 5rem;
+    background-color: black;
+    background-image:url(https://t3.ftcdn.net/jpg/04/04/95/36/360_F_404953646_eL5LuKjloRu9eOkjfIuaJv1ITLP7infC.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    
 }
 
 .contact_container {
